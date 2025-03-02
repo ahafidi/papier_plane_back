@@ -20,8 +20,8 @@ Papier Plane is an AI-powered writing assistant built specifically for journalis
 1. **Clone the Repository:**
 
 ```bash
-git clone git@github.com:ahafidi/papier-plane-backend.git
-cd papier-plane-backend
+git clone git@github.com:ahafidi/papier-plane-back.git
+cd papier-plane-back
 ```
 
 2. **Install Dependencies:**
